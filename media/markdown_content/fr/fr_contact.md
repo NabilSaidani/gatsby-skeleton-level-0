@@ -1,6 +1,6 @@
 ---
 menu: "me contacter"
-title: "Pour ME CONTACTER"
+title: "Pour me Contacter"
 categorie : "contact"
 send: "envoyer"
 firstname: "prénom"
@@ -13,7 +13,7 @@ lang: "fr"
 ## Par mail
 
 Vous pouvez me contacter directement par mail : nabil.saidani@mail-ecv.fr
-Ou par téléphone au : 07.83.03.04.05
+Ou par téléphone au : 06.50.23.12.34
 
 ## Réseaux
 
