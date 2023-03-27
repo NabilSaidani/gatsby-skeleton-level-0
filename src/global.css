@@ -16,13 +16,13 @@
 
   --color_2: grey;
 	--color_3: white;
-	--color_4: cyan;
+	--color_4: black;
 	--color_5: red;
-	--color_6: purple;
+	--color_6: cyan;
 
 	/* the app color */
 	--color_text_dark: var(--color_6);
-	--color_text_light: var(--color_3);
+	--color_text_light: var(--color_4);
 
 	--color_global: var(--color_3);
 
@@ -34,7 +34,7 @@
 
 	--color_bg_form: var(--color_3);
 
-	--color_button: var(--color_4);
+	--color_button: var(--color_6);
 
 	--layout_home_bg: var(--color_3);
 	--layout_main_bg: var(--color_2);
