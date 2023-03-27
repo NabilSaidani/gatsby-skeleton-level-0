@@ -5,17 +5,12 @@ categorie : "about"
 lang: "fr"
 ---
 
-# Vinoth VIJAYAKUMARAN 
+# Nabil SAIDANI 
 
-Actuellement en Bachelor 3ème année Chef de projet digital Développement web. Je suis quelqu'un de curieux, motivé, et rigoureux. Ma passion c'est les voitures automobiles et plus précisément les BMW. Bienvue sur mon portefolio je vous souhaite un très bonne lecture. 
+Je suis actuellement en Bachelor 3ème année Chef de projet digital option Développement web. Je suis quelqu'un de motivé, de perseverant, je vais jusqu'au bout des projets. Je suis un fan de football, je supporte Fc Barcelone, Manchester United et pour Paris Saint-Germain, J'aime bien lire des mangas, jouer à la console, aller au cinéma.
 
 # Mon équipe pour Scentsoft :  
 
-## Alexandre Chasles
+## Helwan MEROUK
 
 Développeur Web
-
-## Erwann Quevit
-
-Développeur Web
-
